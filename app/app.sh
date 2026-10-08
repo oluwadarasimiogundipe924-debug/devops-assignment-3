@@ -48,7 +48,6 @@ check_host() {
 
 
 
-this is intentionally broken
 
     echo "=== Host Resolution ==="
 
