@@ -43,6 +43,13 @@ check_host() {
         return 2
     fi
 
+
+
+
+
+
+this is intentionally broken
+
     echo "=== Host Resolution ==="
 
     if ! getent hosts "$host"; then
